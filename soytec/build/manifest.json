@@ -1,0 +1,123 @@
+{
+  "Modal.css": {
+    "file": "assets/Modal-23d5f832.css",
+    "src": "Modal.css"
+  },
+  "_Modal-1718027f.js": {
+    "assets": [
+      "assets/not-found-dd3969f6.jpg"
+    ],
+    "css": [
+      "assets/Modal-23d5f832.css"
+    ],
+    "file": "assets/Modal-1718027f.js"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-999550fa.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-cfe45b98.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "node_modules/canvg/lib/index.es.js": {
+    "file": "assets/index.es-fe661715.js",
+    "imports": [
+      "_Modal-1718027f.js",
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "node_modules/canvg/lib/index.es.js"
+  },
+  "node_modules/dompurify/dist/purify.es.js": {
+    "file": "assets/purify.es-f47f2ec0.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/dompurify/dist/purify.es.js"
+  },
+  "node_modules/html2canvas/dist/html2canvas.esm.js": {
+    "file": "assets/html2canvas.esm-e0a7d97b.js",
+    "isDynamicEntry": true,
+    "src": "node_modules/html2canvas/dist/html2canvas.esm.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-d237e8d2.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/login.css": {
+    "file": "assets/login-e5fa3305.css",
+    "isEntry": true,
+    "src": "resources/css/login.css"
+  },
+  "resources/css/normalize.css": {
+    "file": "assets/normalize-9d9ae4af.css",
+    "isEntry": true,
+    "src": "resources/css/normalize.css"
+  },
+  "resources/img/blank-profile.svg": {
+    "file": "assets/blank-profile-74fff932.svg",
+    "src": "resources/img/blank-profile.svg"
+  },
+  "resources/img/conversation.svg": {
+    "file": "assets/conversation-a6d2a0e0.svg",
+    "src": "resources/img/conversation.svg"
+  },
+  "resources/img/not-found.jpg": {
+    "file": "assets/not-found-dd3969f6.jpg",
+    "src": "resources/img/not-found.jpg"
+  },
+  "resources/img/unauthorized.svg": {
+    "file": "assets/unauthorized-d5ac91be.svg",
+    "src": "resources/img/unauthorized.svg"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-634bb2d9.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/unauthorized-d5ac91be.svg",
+      "assets/blank-profile-74fff932.svg",
+      "assets/conversation-a6d2a0e0.svg"
+    ],
+    "css": [
+      "assets/app-634bb2d9.css"
+    ],
+    "dynamicImports": [
+      "node_modules/html2canvas/dist/html2canvas.esm.js",
+      "node_modules/dompurify/dist/purify.es.js",
+      "node_modules/canvg/lib/index.es.js"
+    ],
+    "file": "assets/app-04dcedc6.js",
+    "imports": [
+      "_Modal-1718027f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/doc/api/api.css": {
+    "file": "assets/api-ebf5c1fa.css",
+    "src": "resources/js/doc/api/api.css"
+  },
+  "resources/js/doc/api/api.js": {
+    "css": [
+      "assets/api-ebf5c1fa.css"
+    ],
+    "file": "assets/api-0022c245.js",
+    "imports": [
+      "_Modal-1718027f.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/doc/api/api.js"
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-5c85ae45.css",
+    "isEntry": true,
+    "src": "resources/scss/app.scss"
+  },
+  "resources/scss/login.scss": {
+    "file": "assets/login-3c865ca3.css",
+    "isEntry": true,
+    "src": "resources/scss/login.scss"
+  }
+}
