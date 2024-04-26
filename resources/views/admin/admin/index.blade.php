@@ -77,9 +77,7 @@
     <div class="row">
         <div class="col-md-7">
             <div class="card info-card m-0">
-                <!--img src="{{asset('images/fondoparabrisas.png')}}" class="card-img-top">-->
-                <!--img src="{{asset('images/real_bendita_uno/LOGOREALBENDITAUNO.jpeg')}}" class="card-img-top" height="300"-->
-                <img src="{{asset('images/tellos/LOGOTELLOSBIKE.png')}}" class="card-img-top" height="300">
+                <!-- LOGO -->
                 <!--img class="card-img-top" id="img-home-admin" height="300">-->
             </div>
         </div>
@@ -97,12 +95,12 @@
                         <th scope="col">Monto</th>
                         </tr>
                     </thead>
-                    <tbody>          
+                    <tbody>
                         @foreach ($lastsale as $row)
                             <tr>
                             <td>{{$row->num_comprobante}}</td>
-                            <td>{{$row->created_at->toDateString()}}</td> 
-                            <td>{{$row->total_venta}}</td> 
+                            <td>{{$row->created_at->toDateString()}}</td>
+                            <td>{{$row->total_venta}}</td>
                             </tr>
                         @endforeach
                     </tbody>
